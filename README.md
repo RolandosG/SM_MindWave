@@ -43,7 +43,9 @@ Special thanks to all the third-party libraries, tools, and ChatGPT for their as
 
 ## Contact Info
 Email: georgoulis.rolandos@gmail.com
+
 Portfolio: rolandosg.com
+
 LinkedIn: Rolandos Georgoulis
 
 ## Roadmap
