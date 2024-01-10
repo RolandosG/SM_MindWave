@@ -20,17 +20,17 @@ Access detailed features and usage examples soon to be added here.
 Screenshots coming soon.
 
 ## Features
-Personal User Profiles: Ensure your country of residence is correctly set.
-Global Map Posts: Your posts made every 5 hours will appear on a global map in real-time.
-Additional Posts: Further posts will be shared but not displayed on the map.
-Map Integration: Uses Leaflet and Google API for geotracking and displaying countries.
-Mood Representation: Country colors represent user experiences on a scale of 1 (bad) to 10 (amazing).
-Media Integration: Ability to add GIFs from Giphy in posts.
-Infinite Scrolling Feeds: Scroll through 'My Feed' for followed user posts and 'Explore Feed' for discovering new posts.
-Themes: Choose between dark and light themes.
-Trending Tab: Stay updated with current trends and like what's trending.
-Social Interaction: View, like, follow/unfollow other user profiles.
-Account Management: Options to delete your account and access a help/FAQ page.
+Personal User Profiles: Ensure your country of residence is correctly set.<br/>
+Global Map Posts: Your posts made every 5 hours will appear on a global map in real-time.<br/>
+Additional Posts: Further posts will be shared but not displayed on the map.<br/>
+Map Integration: Uses Leaflet and Google API for geotracking and displaying countries.<br/>
+Mood Representation: Country colors represent user experiences on a scale of 1 (bad) to 10 (amazing).<br/>
+Media Integration: Ability to add GIFs from Giphy in posts.<br/>
+Infinite Scrolling Feeds: Scroll through 'My Feed' for followed user posts and 'Explore Feed' for discovering new posts.<br/>
+Themes: Choose between dark and light themes.<br/>
+Trending Tab: Stay updated with current trends and like what's trending.<br/>
+Social Interaction: View, like, follow/unfollow other user profiles.<br/>
+Account Management: Options to delete your account and access a help/FAQ page.<br/>
 
 ## Contributions
 This is a solo project by Rolandos Georgoulis. For inquiries or suggestions, please reach out to me at georgoulis.rolandos@gmail.com.
